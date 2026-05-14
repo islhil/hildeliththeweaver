@@ -1,0 +1,11 @@
+state: enabled
+email: admin@hildeliththeweaver.com
+fullname: 'System Administrator'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$cQ5aRcqCDMxxryqKZqr7Suv5b2HTw/3gu5wyj3B4Ih/hZH6.1xfcW
