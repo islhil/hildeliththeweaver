@@ -1,0 +1,15 @@
+# Hugo build directory
+public/
+resources/
+
+# Local server cache
+.hugo_build.json
+hugo_stats.json
+
+# Dependency folders
+node_modules/
+.sass-cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
