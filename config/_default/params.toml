@@ -121,3 +121,10 @@ fingerprintAlgorithm = "sha512"
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
+
+[ui.gallery]
+  enableLightbox = true
+  showExif = false
+
+[ui]
+  maxWidth = "max-w-full"
