@@ -13,3 +13,4 @@ node_modules/
 # OS-specific files
 .DS_Store
 Thumbs.db
+.hugo_build.lock
