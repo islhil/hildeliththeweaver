@@ -1,0 +1,5 @@
+.home-profile img.rounded-full,
+img.profile-avatar,
+img[alt="Isla Hilton"] {
+    border-radius: 0px !important;
+}
