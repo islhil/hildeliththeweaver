@@ -7,7 +7,7 @@
 
 colorScheme = "slate"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableA11y = false
 enableSearch = false
@@ -33,7 +33,7 @@ fingerprintAlgorithm = "sha512"
   showMenu = true
   showCopyright = false
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
