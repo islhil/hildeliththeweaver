@@ -3,3 +3,7 @@ img.profile-avatar,
 img[alt="Isla Hilton"] {
     border-radius: 0px !important;
 }
+
+.image-gap-above {
+    padding-top: 1.5rem;
+}
