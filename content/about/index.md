@@ -12,6 +12,8 @@ showPagination: false
 
 Hi, I'm Hildelith, or Isla if you catch me outside of a reenactment show. I'm an Anglo Saxon historical reenactor, who enjoys far more fibrecrafts than I'll ever have time for. Weaving on the warp weighted loom is my main focus, but I also enjoy tablet weaving, nalbinding, and braiding plant cordage.
 
+You can find me over on Instagram, or get in touch via email, links below. Happy weaving!
+
 <article class="h-full flex flex-col items-center text-center">
 <header class="relative px-1 py-1 flex flex-col items-center mb-3">
 <div class="mt-1 text-2xl">
