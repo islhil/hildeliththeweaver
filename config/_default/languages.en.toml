@@ -14,11 +14,7 @@ title = "Hildelith the Weaver"
 [params.author]
   name = "Hildelith the Weaver"
   email = "info@hildeliththeweaver.com"
-  image = "img/logo.png"
+  image = "img/logo_clear.png"
   imageQuality = 96
   headline = "Historical fibrecraft recreations and exploration"
   bio = "I'm a historical reenactor and fibre enthusiast, with a particular love of weaving"
-  links = [
-    { email = "mailto:info@hildeliththeweaver.com" },
-    { instagram = "https://instagram.com/hildeliththeweaver" }
-  ]
