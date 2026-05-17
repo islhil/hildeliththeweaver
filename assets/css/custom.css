@@ -7,3 +7,8 @@ img[alt="Isla Hilton"] {
 .image-gap-above {
     padding-top: 1.5rem;
 }
+
+html:not(.dark) body,
+html:not(.dark) .bg-neutral {
+    background-color: #CACDFF !important;
+}
