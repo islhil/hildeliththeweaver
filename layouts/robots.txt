@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /series/
+Disallow: /authors/
+
+Disallow: /page/
+Disallow: /404.html
+
+Disallow: /index.json
+Disallow: /*.xml$
+
+Allow: /sitemap.xml
+
+Sitemap: {{ "sitemap.xml" | absURL }}
